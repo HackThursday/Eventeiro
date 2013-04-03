@@ -1,0 +1,18 @@
+{
+    "name": "HackThursday/Eventeiro",
+    "description": "Get the events from facebook and generates a json file",
+    "autoload": {
+        "psr-0": {"HackThursday": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Guilherme Quental",
+            "email": "guilherme@quent.al"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk": "dev-master"
+    }
+}
+
+
